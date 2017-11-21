@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Bimac.Library
+</name>
+</assembly>
+<members>
+<member name="T:Bimac.Library.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Bimac.Library.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Bimac.Library.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Bimac.Library.DataConnection.getConnections">
+ <summary>
+ Arraylist with connections
+ </summary>
+ <returns></returns>
+</member>
+</members>
+</doc>

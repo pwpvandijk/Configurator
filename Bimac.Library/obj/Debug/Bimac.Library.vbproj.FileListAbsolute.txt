@@ -1,0 +1,10 @@
+C:\Users\pwpva\source\repos\Bimac.Configurator\Bimac.Library\bin\Debug\Bimac.Library.dll.config
+C:\Users\pwpva\source\repos\Bimac.Configurator\Bimac.Library\bin\Debug\Bimac.Library.dll
+C:\Users\pwpva\source\repos\Bimac.Configurator\Bimac.Library\bin\Debug\Bimac.Library.pdb
+C:\Users\pwpva\source\repos\Bimac.Configurator\Bimac.Library\bin\Debug\Bimac.Library.xml
+C:\Users\pwpva\source\repos\Bimac.Configurator\Bimac.Library\obj\Debug\Bimac.Library.Resources.resources
+C:\Users\pwpva\source\repos\Bimac.Configurator\Bimac.Library\obj\Debug\Bimac.Library.vbproj.GenerateResource.Cache
+C:\Users\pwpva\source\repos\Bimac.Configurator\Bimac.Library\obj\Debug\Bimac.Library.vbproj.CoreCompileInputs.cache
+C:\Users\pwpva\source\repos\Bimac.Configurator\Bimac.Library\obj\Debug\Bimac.Library.dll
+C:\Users\pwpva\source\repos\Bimac.Configurator\Bimac.Library\obj\Debug\Bimac.Library.xml
+C:\Users\pwpva\source\repos\Bimac.Configurator\Bimac.Library\obj\Debug\Bimac.Library.pdb
